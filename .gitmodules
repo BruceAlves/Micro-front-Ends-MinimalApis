@@ -1,0 +1,9 @@
+[submodule "mf-usuarios"]
+	path = mf-usuarios
+	url = https://github.com/BruceAlves/MF-Usuarios.git
+[submodule "mf-produtos"]
+	path = mf-produtos
+	url = https://github.com/BruceAlves/MF-Produtos.git
+[submodule "mf-pedidos"]
+	path = mf-pedidos
+	url = https://github.com/BruceAlves/MF-Pedidos.git
